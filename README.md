@@ -1,3 +1,6 @@
+# Tableau Dashboard of Data Visualization:
+https://public.tableau.com/app/profile/dean.arnold/viz/NBASalariesDashboard/NBASalariesDashboard?publish=yes
+
 # Table of Contents 
 * Resources: containts the raw data files and any csvs outputted from our code 
 * Design: contains the SQL code to join our data together as well as ERD diagrams to visualize our original and final databases
