@@ -1,4 +1,4 @@
-# Tableau Dashboard of Data Visualization:
+# Dashboard of Data Visualization:
 https://public.tableau.com/app/profile/dean.arnold/viz/NBASalariesDashboard/NBASalariesDashboard?publish=yes
 
 # Table of Contents 
